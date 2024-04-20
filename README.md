@@ -1,8 +1,7 @@
  # Clustering Attributed Network Using the Steepest descent (CANUS) Methods
 
 
- This repository contains the source code and data set of our manuscript entitled " A Filtered Gradient Descent Clustering Method to Recover Communities in Attributed Networks", Soroosh Shalileh, Under Review at PLOS ONE.
-
+ This repository contains the source code and data sets of our manuscript entitled " A Filtered Gradient Descent Clustering Method to Recover Communities in Attributed Networks", Soroosh Shalileh, Under Review at PLOS ONE, 2024.
 
 ### Abstract
 An attributed network is a network in which in addition to the network structure each
@@ -18,3 +17,6 @@ performance of our proposed methods using synthetic and real-world datasets, inc
 one new real-world dataset. Our results show that our proposed filter mechanism does
 improve results significantly and makes it competitive versus state-of-the-art algorithms.
 Attributed Networks, Community Detection, Filtered Gradient Descent, Clustering.
+
+
+- Note, While the manuscript is under the review, and if you plan to use the software or introduced data set (Movies Networks) please, contact the co-author, myself, via email: sr.shalileh@gmail.com, so that we can agree how you will cite this paper. 
